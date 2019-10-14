@@ -1,0 +1,5 @@
+README
+This program can be run by first running the MyServer, then running
+the ListClient.  You can run ListClient multiple times to get multiple clients.
+You then follow the instructions in the console to connect to the server
+and to send messages.
